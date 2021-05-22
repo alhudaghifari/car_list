@@ -1,0 +1,175 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "num_models": 3,
+      "img_url": "https://media.suara.com/pictures/480x260/2019/06/25/21701-chrysler-300c.jpg",
+      "max_car_id": 104,
+      "id": 1,
+      "name": "Chrysler",
+      "desc": "mobil chrysler warna putih",
+      "avg_horsepower": 291.3333333333333,
+      "avg_price": 32971.666666666664
+    },
+    {
+      "num_models": 8,
+      "img_url": "https://foto.kontan.co.id/8RoYx9BikAREXnGcRN5SNj50L3k=/smart/2021/04/01/1357043749p.jpg",
+      "max_car_id": 152,
+      "id": 2,
+      "name": "Honda",
+      "desc": "mobil honda warna putih",
+      "avg_horsepower": 190.625,
+      "avg_price": 27965
+    },
+    {
+      "num_models": 18,
+      "img_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/mercedes-benz-cls-2021.jpg",
+      "max_car_id": 270,
+      "id": 3,
+      "name": "Mercedes Benz",
+      "desc": "mobil mercedes-benz warna abu abu",
+      "avg_horsepower": 333.94444444444446,
+      "avg_price": 80681.94444444444
+    },
+    {
+      "num_models": 6,
+      "img_url": "https://www.ramcaribbean.com/content/dam/cross-regional/latam/ramtrucks/en_cr/navcard/2019-Ram-Jellybean-3500Dually.jpg.img.500.jpg",
+      "max_car_id": 307,
+      "id": 4,
+      "name": "RAM",
+      "desc": "mobil ram warna hitam",
+      "avg_horsepower": 299.8333333333333,
+      "avg_price": 31406.666666666668
+    },
+    {
+      "num_models": 19,
+      "img_url": "https://images.bisnis-cdn.com/thumb/posts/2021/01/08/1340284/ford-f-1501.jpg?w=744&h=465",
+      "max_car_id": 125,
+      "id": 5,
+      "name": "Ford",
+      "desc": "mobil Ford warna hitam",
+      "avg_horsepower": 281.2631578947368,
+      "avg_price": 34998.68421052631
+    },
+    {
+      "num_models": 9,
+      "img_url": "https://images.hgmsites.net/hug/2021-gmc-yukon_100731238_h.jpg",
+      "max_car_id": 146,
+      "id": 6,
+      "name": "GMC",
+      "desc": "mobil gmc warna hitam",
+      "avg_horsepower": 292.3333333333333,
+      "avg_price": 40609.444444444445
+    },
+    {
+      "num_models": 22,
+      "img_url": "https://i2.wp.com/us.motorsactu.com/wp-content/uploads/2020/04/Audi-e-tron-GT-concept-7022.jpg?fit=1200%2C675&ssl=1",
+      "max_car_id": 21,
+      "id": 7,
+      "name": "Audi",
+      "desc": "mobil Audi warna hitam",
+      "avg_horsepower": 340.59090909090907,
+      "avg_price": 66631.81818181818
+    },
+    {
+      "num_models": 7,
+      "img_url": "https://cdn.motor1.com/images/mgl/2Xq6p/s1/low-mileage-1998-subaru-impreza-22b-sti.jpg",
+      "max_car_id": 330,
+      "id": 8,
+      "name": "Subaru",
+      "desc": "mobil subaru warna biru",
+      "avg_horsepower": 192.14285714285714,
+      "avg_price": 27159.285714285714
+    },
+    {
+      "num_models": 6,
+      "img_url": "https://awsimages.detik.net.id/community/media/visual/2020/09/01/rolls-royce-ghost-8_169.jpeg?w=700&q=90",
+      "max_car_id": 315,
+      "id": 9,
+      "name": "Rolls-Royce",
+      "desc": "mobil rolls-royce warna putih",
+      "avg_horsepower": 518.1666666666666,
+      "avg_price": 394858.3333333333
+    },
+    {
+      "num_models": 8,
+      "img_url": "https://imgx.gridoto.com/crop/0x0:0x0/700x465/photo/2020/03/08/3214479249.jpg",
+      "max_car_id": 301,
+      "id": 10,
+      "name": "Porsche",
+      "desc": "mobil porsche warna silver kehitaman",
+      "avg_horsepower": 475.25,
+      "avg_price": 203787.5
+    },
+    {
+      "num_models": 31,
+      "img_url": "https://awsimages.detik.net.id/community/media/visual/2021/03/18/mobil-listrik-bmw-i4-5.jpeg?w=700&q=90",
+      "max_car_id": 64,
+      "id": 11,
+      "name": "BMW",
+      "desc": "mobil bmw warna putih",
+      "avg_horsepower": 379.2258064516129,
+      "avg_price": 74501.6129032258
+    },
+    {
+      "num_models": 7,
+      "img_url": "https://images.bisnis-cdn.com/thumb/posts/2020/11/27/1323464/volvo-s60.jpg?w=600&h=400",
+      "max_car_id": 371,
+      "id": 12,
+      "name": "Volvo",
+      "desc": "mobil volvo warna hitam",
+      "avg_horsepower": 285.2857142857143,
+      "avg_price": 45967.857142857145
+    },
+    {
+      "num_models": 5,
+      "img_url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-lincoln-aviator-mmp-1-1594382813.jpg?crop=1xw:0.8680555555555556xh;center,top&resize=480:*",
+      "max_car_id": 236,
+      "id": 13,
+      "name": "Lincoln",
+      "desc": "mobil lincoln warna hitam",
+      "avg_horsepower": 324.6,
+      "avg_price": 45836
+    },
+    {
+      "num_models": 4,
+      "img_url": "https://static.carmudi.co.id/f3Q-sKrBmLVYYeCTgnwR3togMTQ=/900x405/https://trenotomotif.com/ncs/images/Maserati/Maserati_Ghibli/maserati_ghibli_gransport.jpeg",
+      "max_car_id": 245,
+      "id": 14,
+      "name": "Maserati",
+      "desc": "mobil maserati warna biru",
+      "avg_horsepower": 444,
+      "avg_price": 139934
+    },
+    {
+      "num_models": 4,
+      "img_url": "https://www.acura.com/-/media/Acura-Platform/Non-Vehicle-Pages/homepage/hero-carousel/2020/my21-ilx/MY21-ILX-HP-Hero-Refresh-S.jpg",
+      "max_car_id": 3,
+      "id": 15,
+      "name": "Acura",
+      "desc": "mobil acura warna merah",
+      "avg_horsepower": 286.75,
+      "avg_price": 45752.5
+    },
+    {
+      "num_models": 2,
+      "img_url": "https://mclaren.scene7.com/is/image/mclaren/Homepage-ownership-tile-1200x1200px:crop-1x1?wid=1920&hei=1920",
+      "max_car_id": 254,
+      "id": 16,
+      "name": "McLaren",
+      "desc": "mobil mclaren warna putih",
+      "avg_horsepower": 641,
+      "avg_price": 272862.5
+    },
+    {
+      "num_models": 8,
+      "img_url": "https://img2.carmax.com/img/vehicles/20305040/1/385.jpg",
+      "max_car_id": 177,
+      "id": 17,
+      "name": "Infiniti",
+      "desc": "mobil infiniti warna silver abu-abu",
+      "avg_horsepower": 311.375,
+      "avg_price": 45612.5
+    }
+  ]
+}

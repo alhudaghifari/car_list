@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Car List</string>
+    <string name="no_data">Tidak ada data</string>
+    <string name="no_data_fav">Belum ada daftar film favoritmu nih!</string>
+    <string name="detail_car">Detail Car</string>
+
+    <string name="about">About</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+
+    <string name="name">Ahmad Farhan Ghifari</string>
+    <string name="email">pakpungsana@gmail.com</string>
+
+</resources>
